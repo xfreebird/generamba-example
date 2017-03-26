@@ -3,6 +3,7 @@ A sample iOS project configured with generamba and a custom Swift 3 VIPER templa
 
 ```
 gem install bundler
+bundle install
 bundle exec pod install
 bundle exec generamba gen MyModule swifty_viper_ngh --author="John Doe"
 ```
